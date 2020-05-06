@@ -1,1 +1,3 @@
 # GuessTheLogo
+
+Android Programming Project
