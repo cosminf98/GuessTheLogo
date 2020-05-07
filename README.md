@@ -12,4 +12,4 @@ corect) si se cere un nume pentru a fi adaugat in highscores.
 
 • Highscores - aici se vor afisa topul jucatorilor. Se vor afisa numele, scorul cat si durata jocului (in secunde)
 
-• Share - Aplicatia poate face distribui pe social media cele mai bune scoruri.
+• Share - Aplicatia poate distribui pe social media cele mai bune scoruri.
